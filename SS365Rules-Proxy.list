@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
+
 # > Youtube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
@@ -124,6 +125,9 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googleadservices.com
 
 # > ABC
 DOMAIN-SUFFIX,edgedatg.com
