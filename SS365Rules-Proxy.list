@@ -1066,6 +1066,16 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,beetalk.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abc.xyz
